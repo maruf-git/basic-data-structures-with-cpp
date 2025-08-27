@@ -1,0 +1,1 @@
+{"name":"Local: convert_array_to_bst","url":"f:\\phitron\\basic data structures\\binary-search-tree\\convert_array_to_bst.cpp","tests":[{"id":1755005281781,"input":"6\n2 5 8 11 15 18","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\phitron\\basic data structures\\binary-search-tree\\convert_array_to_bst.cpp","group":"local","local":true}
